@@ -1,4 +1,4 @@
-Unity Editor version:    2020.3.19f1 (68f137dc9bbe)
+Unity Editor version:    2020.3.18f1 (a7d1c678663c)
 Branch:                  2020.3/staging
 Build type:              Release
 Batch mode:              YES
@@ -6,121 +6,118 @@ macOS version:           Version 11.2.1 (Build 20D74)
 Darwin version:          20.3.0
 Architecture:            x86_64
 Running under Rosetta:   NO
-Available memory:        8192 MB
+Available memory:        16384 MB
 Using pre-set license
 Pro License: NO
 
 COMMAND LINE ARGUMENTS:
-/Users/game12/Desktop/2020.3.19f1/Unity.app/Contents/MacOS/Unity
+/Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/Users/game12/Desktop/2d Game
+/Users/game12/Documents/GitHub/2d-Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53434
-Successfully changed project path to: /Users/game12/Desktop/2d Game
-/Users/game12/Desktop/2d Game
+51191
+Successfully changed project path to: /Users/game12/Documents/GitHub/2d-Game
+/Users/game12/Documents/GitHub/2d-Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 59.58 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 57.16 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2020.3.19f1 (68f137dc9bbe)
-[Subsystems] Discovering subsystems at path /Users/game12/Desktop/2020.3.19f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/game12/Desktop/2d Game/Assets
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/game12/Documents/GitHub/2d-Game/Assets
 GfxDevice: creating device client; threaded=0
-Renderer: AMD Radeon Pro 5300 OpenGL Engine
+Renderer: AMD Radeon Pro 5500 XT OpenGL Engine
 Vendor:   ATI Technologies Inc.
 Version:  4.1 ATI-4.2.15
 GLES:     0
  GL_ARB_blend_func_extended GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader5 GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_occlusion_query2 GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_subroutine GL_ARB_shading_language_include GL_ARB_tessellation_shader GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_texture_storage GL_ARB_texture_swizzle GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_vertex_attrib_64bit GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_EXT_debug_label GL_EXT_debug_marker GL_EXT_depth_bounds_test GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB_decode GL_APPLE_client_storage GL_APPLE_container_object_shareable G
 L_APPLE_flush_render GL_APPLE_object_purgeable GL_APPLE_rgb_422 GL_APPLE_row_bytes GL_APPLE_texture_range GL_ATI_texture_mirror_once GL_NV_texture_barrier
-OPENGL LOG: Creating OpenGL 4.1 graphics device ; Context level  <OpenGL 4.1> ; Context handle -58364416
+OPENGL LOG: Creating OpenGL 4.1 graphics device ; Context level  <OpenGL 4.1> ; Context handle -351634432
 Initialize mono
-Mono path[0] = '/Users/game12/Desktop/2020.3.19f1/Unity.app/Contents/Managed'
-Mono path[1] = '/Users/game12/Desktop/2020.3.19f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Users/game12/Desktop/2020.3.19f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56663
+Mono path[0] = '/Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56743
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Users/game12/Desktop/2020.3.19f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Users/game12/Desktop/2020.3.19f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.003526 seconds.
+Register platform support module: /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000410 seconds.
 Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 55.07 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 47.45 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.748 seconds
+- Completed reload, in  1.444 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1749ms)
-		BeginReloadAssembly (38ms)
+	ReloadAssembly (1444ms)
+		BeginReloadAssembly (33ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (454ms)
-			LoadAssemblies (41ms)
+		EndReloadAssembly (387ms)
+			LoadAssemblies (33ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (174ms)
+			SetupTypeCache (150ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (34ms)
-			SetupLoadedEditorAssemblies (191ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (164ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (3ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (55ms)
-				BeforeProcessingInitializeOnLoad (7ms)
-				ProcessInitializeOnLoadAttributes (95ms)
-				ProcessInitializeOnLoadMethodAttributes (29ms)
+				RefreshPlugins (47ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (82ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006163 seconds.
+Registered in 0.001672 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.166 seconds
+- Completed reload, in  1.013 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1167ms)
-		BeginReloadAssembly (149ms)
+	ReloadAssembly (1013ms)
+		BeginReloadAssembly (133ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (27ms)
-		EndReloadAssembly (958ms)
-			LoadAssemblies (106ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (825ms)
+			LoadAssemblies (64ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (322ms)
+			SetupTypeCache (283ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (62ms)
-			SetupLoadedEditorAssemblies (360ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (330ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (54ms)
-				ProcessInitializeOnLoadAttributes (258ms)
-				ProcessInitializeOnLoadMethodAttributes (40ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (220ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
-Validating Project structure ... 0.033402 seconds.
+Validating Project structure ... 0.016713 seconds.
 Shader import version has changed; will reimport all shaders...
-Upgrading shader files ...0.056896 seconds.
+Upgrading shader files ...0.031404 seconds.
 Application.AssetDatabase Initial Script Refresh Start
 RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
 RefreshProfiler: Total: 0.000ms
@@ -129,19 +126,19 @@ Application.AssetDatabase.Refresh Start
 Application.AssetDatabase.Refresh End
 RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
 RefreshProfiler: Total: 0.000ms
-Launching external process: /Users/game12/Desktop/2020.3.19f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launching external process: /Users/game12/Desktop/2020.3.18f1/Unity.app/Contents/Tools/UnityShaderCompiler
 Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
 Initializing Unity extensions:
 ========================================================================
 Worker process is ready to serve import requests
-Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2433 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 209.1 MB.
-System memory in use after: 208.4 MB.
+System memory in use before: 209.4 MB.
+System memory in use after: 208.8 MB.
 
-Unloading 268 unused Assets to reduce memory usage. Loaded Objects now: 2870.
-Total: 5.935355 ms (FindLiveObjects: 0.281486 ms CreateObjectMapping: 0.112289 ms MarkObjects: 5.027827 ms  DeleteObjects: 0.513027 ms)
+Unloading 268 unused Assets to reduce memory usage. Loaded Objects now: 2871.
+Total: 5.030535 ms (FindLiveObjects: 0.210745 ms CreateObjectMapping: 0.096313 ms MarkObjects: 4.283821 ms  DeleteObjects: 0.439083 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -155,1021 +152,9 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/2DGamekit/Scenes/Zone1.unity
-  artifactKey: Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Scenes/Zone1.unity using Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8d875f82726615edba8df2322e2207') in 0.009848 seconds 
-  Import took 0.014534 seconds .
+  path: Assets/2DGamekit/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e452de18f19c5f1907c4d65cac11259') in 0.550158 seconds 
+  Import took 0.553311 seconds .
 
-========================================================================
-Received Import Request.
-  Time since last request: 65.392699 seconds.
-  path: Assets/2DGamekit/Scenes/Zone2.unity
-  artifactKey: Guid(5436c67e9267f17458b31fcdc20cd20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Scenes/Zone2.unity using Guid(5436c67e9267f17458b31fcdc20cd20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f506e6788458ff0e511b6c1046178a8') in 0.001000 seconds 
-  Import took 0.005199 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.493425 seconds.
-  path: Assets/2DGamekit/Scenes/Start.unity
-  artifactKey: Guid(57df1e417250bc247976c2c0dc088efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Scenes/Start.unity using Guid(57df1e417250bc247976c2c0dc088efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a69d1a1dbb5ee394d1fa3014e2d41548') in 0.001099 seconds 
-  Import took 0.005256 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 270.717491 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/AcidSplash.mat
-  artifactKey: Guid(64e961b3074b8784eb44b53d72a489e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/AcidSplash.mat using Guid(64e961b3074b8784eb44b53d72a489e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '805d1f5663e1535c502348a45d18e24a') in 1.030640 seconds 
-  Import took 1.034829 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003274 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Ellen/BulletImpact.mat
-  artifactKey: Guid(640671a219009724abda628f3fc3a28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Ellen/BulletImpact.mat using Guid(640671a219009724abda628f3fc3a28c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e89e2eed91b112d456f3fa9fc85ee78') in 0.047829 seconds 
-  Import took 0.052267 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleSmoke.mat
-  artifactKey: Guid(30416b542ac1dd049b116f11a8b5c8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleSmoke.mat using Guid(30416b542ac1dd049b116f11a8b5c8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8391124b2e426c8b2115112e3b217eba') in 0.009851 seconds 
-  Import took 0.013764 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Ellen/StaffSwish.mat
-  artifactKey: Guid(bd681034df1f1af48bbc097c72140a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Ellen/StaffSwish.mat using Guid(bd681034df1f1af48bbc097c72140a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712640ae45cae281a6e0d24432f92c65') in 0.061952 seconds 
-  Import took 0.065610 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000243 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Glow.mat
-  artifactKey: Guid(4e5d31cb01fd7ce418bf692fcce23b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Glow.mat using Guid(4e5d31cb01fd7ce418bf692fcce23b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afd206009a4358ab5f08f4a7f1670b8a') in 0.009129 seconds 
-  Import took 0.013029 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/RockChunks.mat
-  artifactKey: Guid(d106e46bf186edf4c8aa853d821fead7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/RockChunks.mat using Guid(d106e46bf186edf4c8aa853d821fead7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8029614bb57287213088db52eb77d78e') in 0.019078 seconds 
-  Import took 0.022421 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000283 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/RockDust02.mat
-  artifactKey: Guid(d121d887ab5272d4089b26e22e22da93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/RockDust02.mat using Guid(d121d887ab5272d4089b26e22e22da93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e86f94fc2a80782edf5c71213ab0447') in 0.006203 seconds 
-  Import took 0.010130 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectileParticle.mat
-  artifactKey: Guid(9dc7ddfb66f7155478361b01782f2afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectileParticle.mat using Guid(9dc7ddfb66f7155478361b01782f2afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a7d4fba78cc116d61d540fddf428f1') in 0.012227 seconds 
-  Import took 0.016141 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/TilemapRockBG.mat
-  artifactKey: Guid(5fa67ec605523b542b6a3ad3479021db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/TilemapRockBG.mat using Guid(5fa67ec605523b542b6a3ad3479021db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5789b0594c342e9092e18a5ad0f8fa7') in 0.069485 seconds 
-  Import took 0.073884 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/PassthroughPlatform.mat
-  artifactKey: Guid(ca90fcc284b8cc44c88c318d12ef9ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/PassthroughPlatform.mat using Guid(ca90fcc284b8cc44c88c318d12ef9ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fedbb6dd8e5d57ee16253dff47bdb35') in 0.123793 seconds 
-  Import took 0.127488 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleForegroundFog.mat
-  artifactKey: Guid(8a793220ef40b55439d9c7918c662256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleForegroundFog.mat using Guid(8a793220ef40b55439d9c7918c662256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a13e213b6b351df93dfca73fc2e64a1') in 0.006219 seconds 
-  Import took 0.010367 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000229 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/RoundParticles.mat
-  artifactKey: Guid(9d008d8496a77794bbf7cdf9ed4684ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/RoundParticles.mat using Guid(9d008d8496a77794bbf7cdf9ed4684ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e117b8c25c164aba821c1787e5b17eac') in 0.007250 seconds 
-  Import took 0.011507 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/MistLight.mat
-  artifactKey: Guid(afb12922b97680b4ab289d7ba5d80485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/MistLight.mat using Guid(afb12922b97680b4ab289d7ba5d80485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1903cf8b66ab9ef52098617785cb3f46') in 0.133811 seconds 
-  Import took 0.138068 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000167 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/MovingPlatform.mat
-  artifactKey: Guid(926289aa8ad55294196e9dd90e16a9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/MovingPlatform.mat using Guid(926289aa8ad55294196e9dd90e16a9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24309f289bf2db63b4666919425b1661') in 0.010316 seconds 
-  Import took 0.014136 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Enemies/Gunner/Lightning.mat
-  artifactKey: Guid(c5d072348317bd947bfb0130940546c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Enemies/Gunner/Lightning.mat using Guid(c5d072348317bd947bfb0130940546c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b29b14555fb24c4e2bcad1fb9a81db88') in 0.044539 seconds 
-  Import took 0.048296 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/2DGamekit/Art/Materials/UI/UIBlur.mat
-  artifactKey: Guid(22715a55ad6388d419657130825b7b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/UI/UIBlur.mat using Guid(22715a55ad6388d419657130825b7b1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147e612c1eda29bbb01734a9e543985c') in 0.080040 seconds 
-  Import took 0.084294 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/Rubble.mat
-  artifactKey: Guid(46c61ab9b891cbf4880e1100a2acb83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/Rubble.mat using Guid(46c61ab9b891cbf4880e1100a2acb83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b37caba9d2d99127d9b439b1a66508d1') in 0.264857 seconds 
-  Import took 0.268629 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/TilemapRock.mat
-  artifactKey: Guid(b0a169f1165a6be4f8facfe051710f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/TilemapRock.mat using Guid(b0a169f1165a6be4f8facfe051710f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5c94420a722ba9975111651bb140ea') in 0.012375 seconds 
-  Import took 0.016415 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/Steam.mat
-  artifactKey: Guid(812e3c5e261722c468a57e43e05caec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/Steam.mat using Guid(812e3c5e261722c468a57e43e05caec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36515e3a950eaea3e7fd8954d4409cd') in 0.006524 seconds 
-  Import took 0.010346 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000174 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-SemiBold.ttf
-  artifactKey: Guid(3f7a3236435eb074fa1cc0b91daae0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-SemiBold.ttf using Guid(3f7a3236435eb074fa1cc0b91daae0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25c3dcd8f63123e9df4cfb040411abe7') in 1.415224 seconds 
-  Import took 1.420103 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004093 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Interactables/HealingGlobe.mat
-  artifactKey: Guid(4f6e1aa50df99604fb7b0a1d3fe6107b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Interactables/HealingGlobe.mat using Guid(4f6e1aa50df99604fb7b0a1d3fe6107b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df27db55cfdc3f2de4154839884ef86') in 0.050969 seconds 
-  Import took 0.054914 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000351 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/WeaponsPickupDarkener.mat
-  artifactKey: Guid(2abcfa185d34214448d2ee55de498301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/WeaponsPickupDarkener.mat using Guid(2abcfa185d34214448d2ee55de498301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e1fe9c2deab328225b3b2d22989650') in 0.030478 seconds 
-  Import took 0.033827 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000255 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerBeamEffect.mat
-  artifactKey: Guid(dbfb059e3e36edf4294f9cff03bb0363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerBeamEffect.mat using Guid(dbfb059e3e36edf4294f9cff03bb0363) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '592748ef1cc70bfd0ff3dea2b027e1f6') in 0.007736 seconds 
-  Import took 0.011384 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerUpBeamEffect01.mat
-  artifactKey: Guid(abeda169c8b81254ea278944f247a4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerUpBeamEffect01.mat using Guid(abeda169c8b81254ea278944f247a4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f89e87c42864ba9070810ef099b79de6') in 0.005917 seconds 
-  Import took 0.009514 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-Light.ttf
-  artifactKey: Guid(e44bb575ee780e84e98f1e161744eb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-Light.ttf using Guid(e44bb575ee780e84e98f1e161744eb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ef1a1af1cef88d64a2f28b116ce785') in 0.009209 seconds 
-  Import took 0.012641 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/WaterDrops.mat
-  artifactKey: Guid(28bc895e65d671446a2d0e1362fc5ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/WaterDrops.mat using Guid(28bc895e65d671446a2d0e1362fc5ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce153749e0d0eae6cd38771f91b708b') in 0.007475 seconds 
-  Import took 0.011095 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/Mist.mat
-  artifactKey: Guid(950a064d8c061b046a30fcdad799f81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/Mist.mat using Guid(950a064d8c061b046a30fcdad799f81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05f289b6fd8706bf1005bb9baa92c46e') in 0.006279 seconds 
-  Import took 0.010031 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/TilemapAlienBG.mat
-  artifactKey: Guid(9eac55953e4cb874fa6a4235da0db771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/TilemapAlienBG.mat using Guid(9eac55953e4cb874fa6a4235da0db771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3290dc7305784ffd59e66ba85a8f19aa') in 0.014099 seconds 
-  Import took 0.018195 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Ellen/MuzzleEffect.mat
-  artifactKey: Guid(4f3c74ec70220d440b7748671d32b858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Ellen/MuzzleEffect.mat using Guid(4f3c74ec70220d440b7748671d32b858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75264a2cea3eb07a0cd3ca764e0f5b0a') in 0.014781 seconds 
-  Import took 0.018531 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/Stones.mat
-  artifactKey: Guid(bcb80a583a572ac48b01610a0ae890be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/Stones.mat using Guid(bcb80a583a572ac48b01610a0ae890be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7910dda889fa5561bb3d5797fa9a8a8a') in 0.035013 seconds 
-  Import took 0.039033 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/Dropship.mat
-  artifactKey: Guid(2c14c73cffcc76346a7b50b3394b3e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/Dropship.mat using Guid(2c14c73cffcc76346a7b50b3394b3e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771ba05dcdb857d0ebaf36f0c8b58e49') in 0.011720 seconds 
-  Import took 0.015705 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleAcidBubbles.mat
-  artifactKey: Guid(16194fae16baf814d95567a14a521d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleAcidBubbles.mat using Guid(16194fae16baf814d95567a14a521d5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6acba18d0478f9fcd4ebad6dbf8887d4') in 0.078915 seconds 
-  Import took 0.082700 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000209 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/PlantSwayBG.mat
-  artifactKey: Guid(fe3dba381bdf9194986c8c65fef4b3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/PlantSwayBG.mat using Guid(fe3dba381bdf9194986c8c65fef4b3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2def54fd737ae5561d82a3de89403cc0') in 0.006182 seconds 
-  Import took 0.009997 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-Medium.ttf
-  artifactKey: Guid(d151d0faf225b2f41be85322a8c28666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-Medium.ttf using Guid(d151d0faf225b2f41be85322a8c28666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '848c20fcf8e010497603211e0bf70d07') in 0.009260 seconds 
-  Import took 0.012885 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000248 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Ellen/JumpEffect.mat
-  artifactKey: Guid(ec5e4ac8b7092944198a08557485952d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Ellen/JumpEffect.mat using Guid(ec5e4ac8b7092944198a08557485952d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c56266b436f5f93137cd59b47dfad8b8') in 0.009762 seconds 
-  Import took 0.015166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000245 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/PlatformDetail.mat
-  artifactKey: Guid(de4e33323977bc043b58b7c1654f66da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/PlatformDetail.mat using Guid(de4e33323977bc043b58b7c1654f66da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9467d522344a45d1399bd2718d5d03d1') in 0.008383 seconds 
-  Import took 0.013468 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000238 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Ellen/Bullet.mat
-  artifactKey: Guid(8c69763446fb3664b939fdd8e803f70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Ellen/Bullet.mat using Guid(8c69763446fb3664b939fdd8e803f70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c18ae4e0d993f0eecbf7c0c3d39057a') in 0.008621 seconds 
-  Import took 0.012898 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/RockDust01.mat
-  artifactKey: Guid(489d56aef57efbd4cacbd837483a3b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/RockDust01.mat using Guid(489d56aef57efbd4cacbd837483a3b97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0c0b114e432131e3fc274cf2ed15903') in 0.133685 seconds 
-  Import took 0.138615 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/DynamicWater.mat
-  artifactKey: Guid(c0f9abb8779e0b44ba39e524decb6a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/DynamicWater.mat using Guid(c0f9abb8779e0b44ba39e524decb6a33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '115912dce691483fda4c0227f871cc4a') in 0.041979 seconds 
-  Import took 0.045874 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000211 seconds.
-  path: Assets/2DGamekit/Utilities/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
-  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5fff6e031271fc8109f5da7f2819dc') in 0.072950 seconds 
-  Import took 0.076961 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectileHit2.mat
-  artifactKey: Guid(72bf409812def7e4d90f825863838a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectileHit2.mat using Guid(72bf409812def7e4d90f825863838a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c998a5bc9abfd028ad64f1cd30fe6a7a') in 0.005695 seconds 
-  Import took 0.009632 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/TilemapAlien.mat
-  artifactKey: Guid(8ef1cb25bc81b544a8349f6e1787fd1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/TilemapAlien.mat using Guid(8ef1cb25bc81b544a8349f6e1787fd1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca9e7c3113731be89ad93376d281b6e7') in 0.011878 seconds 
-  Import took 0.016318 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000208 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/Water.mat
-  artifactKey: Guid(624c40ef0ed0e5d49869af6904e69d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/Water.mat using Guid(624c40ef0ed0e5d49869af6904e69d29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb40f3fd69822e8a163e70b1a3390d9') in 0.007864 seconds 
-  Import took 0.011582 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-Bold.ttf
-  artifactKey: Guid(3f33109a773074647bf9153825f5d0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-Bold.ttf using Guid(3f33109a773074647bf9153825f5d0ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0530a5c5df3f5ca715336c559c458957') in 0.009078 seconds 
-  Import took 0.012440 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000179 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani-Bold SDF.asset
-  artifactKey: Guid(e85f1cf0bfd4d1447bed2bc737c47be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani-Bold SDF.asset using Guid(e85f1cf0bfd4d1447bed2bc737c47be7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70784e25287cf7933c006808588f74ca') in 0.375299 seconds 
-  Import took 0.378401 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002579 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectileHit.mat
-  artifactKey: Guid(49d24c9665b02fa4aa1590a301f13eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectileHit.mat using Guid(49d24c9665b02fa4aa1590a301f13eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fef821ca8b1779e7f2cace51b06358c') in 0.011741 seconds 
-  Import took 0.015596 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectileTrail.mat
-  artifactKey: Guid(ecc49dac98a29ef449c7b7310805cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectileTrail.mat using Guid(ecc49dac98a29ef449c7b7310805cec8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f9dafef80fe353181cbf123675445e') in 0.006082 seconds 
-  Import took 0.009884 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-Regular.ttf
-  artifactKey: Guid(09e331ca2f11a354696f42260d750f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani/Rajdhani-Regular.ttf using Guid(09e331ca2f11a354696f42260d750f7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c432892e28794502fd03e5e9ac139ea4') in 0.013899 seconds 
-  Import took 0.017267 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani-SemiBold SDF.asset
-  artifactKey: Guid(4c1f115f2c9b80b4cabb22cae230db1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani-SemiBold SDF.asset using Guid(4c1f115f2c9b80b4cabb22cae230db1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b20b272656a01d316b1b79df91fae08d') in 0.088853 seconds 
-  Import took 0.092113 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani-SemiBold SDF UIButton.mat
-  artifactKey: Guid(c64de538f27a5b342a025d5db50d19cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani-SemiBold SDF UIButton.mat using Guid(c64de538f27a5b342a025d5db50d19cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4813574873eaf8c82cba2031140bc14a') in 0.092743 seconds 
-  Import took 0.096649 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/2DGamekit/Utilities/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
-  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033d2353f249d5919bce58f1d8eef574') in 0.080587 seconds 
-  Import took 0.084292 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Interactables/HealingEffect.mat
-  artifactKey: Guid(6446c065f29a9a94b9462d7b44e824a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Interactables/HealingEffect.mat using Guid(6446c065f29a9a94b9462d7b44e824a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aab382aa2cb82581a4376748a24df8eb') in 0.008404 seconds 
-  Import took 0.012027 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000180 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/RockBG.mat
-  artifactKey: Guid(53c282ebd003f9e44a136eaf2f9695cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/RockBG.mat using Guid(53c282ebd003f9e44a136eaf2f9695cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec014abcb08ff5be6b7eae35c14a34b8') in 0.120435 seconds 
-  Import took 0.124391 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/SwitchEffect.mat
-  artifactKey: Guid(8ca87a7b965d118468b5aeddb90fe1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/SwitchEffect.mat using Guid(8ca87a7b965d118468b5aeddb90fe1b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9b8bf1ba23944d7396bb12d9a0a7799') in 0.006130 seconds 
-  Import took 0.009786 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000224 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Ellen/DustPuff.mat
-  artifactKey: Guid(e5bdc7bae15102048b57321d68c45c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Ellen/DustPuff.mat using Guid(e5bdc7bae15102048b57321d68c45c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a1323260e92d5db33b9cb34fae276a') in 0.045478 seconds 
-  Import took 0.049166 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000236 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerUpBeamEffect02.mat
-  artifactKey: Guid(74b76cd257ec5e3498dad51c0c2b075c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerUpBeamEffect02.mat using Guid(74b76cd257ec5e3498dad51c0c2b075c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2e9bbfeaa6412932f3d2997147f5d4') in 0.006209 seconds 
-  Import took 0.010330 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/WallTileEnd.mat
-  artifactKey: Guid(8f6edd733af01e142800927bda1b76ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/WallTileEnd.mat using Guid(8f6edd733af01e142800927bda1b76ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca01535e3ff2145e843735722bcb7d14') in 0.052024 seconds 
-  Import took 0.055532 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000204 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/Fireflies.mat
-  artifactKey: Guid(5d68b3689b52fc448be4ab2d246a694e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/Fireflies.mat using Guid(5d68b3689b52fc448be4ab2d246a694e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e696a87b60f50ce135f925bf3c56629') in 0.006507 seconds 
-  Import took 0.010067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Snap.mat
-  artifactKey: Guid(de328d09c5cef004693237594faf4520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Snap.mat using Guid(de328d09c5cef004693237594faf4520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c97072b6b6f62f5dfa164e30954e3f73') in 0.038565 seconds 
-  Import took 0.041965 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000378 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/InfoSign.mat
-  artifactKey: Guid(1067fb38eccfeee449d14ef3395e6dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/InfoSign.mat using Guid(1067fb38eccfeee449d14ef3395e6dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f70924d3da7607d600a6831a3446fa') in 0.008196 seconds 
-  Import took 0.012626 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Ellen/RespawnEffect.mat
-  artifactKey: Guid(28306f74033b5444d8271f86aed207e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Ellen/RespawnEffect.mat using Guid(28306f74033b5444d8271f86aed207e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e621ae011ec8233890a85f37c4391910') in 0.006616 seconds 
-  Import took 0.010199 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/MovingPlatformAlien.mat
-  artifactKey: Guid(10dfd801f2044ff4a865e2c633cfb0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/MovingPlatformAlien.mat using Guid(10dfd801f2044ff4a865e2c633cfb0e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f26dec38f75c56d14fc54c75ce04a8') in 0.008888 seconds 
-  Import took 0.012601 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerDamageTrail.mat
-  artifactKey: Guid(ceacbb350e5610448be0924e5f0f1cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerDamageTrail.mat using Guid(ceacbb350e5610448be0924e5f0f1cf7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7465d775f950360c5869b9f3cfa1a18') in 0.006497 seconds 
-  Import took 0.010231 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/Teleporter.mat
-  artifactKey: Guid(3461c5a9188919441af61f743fcac6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/Teleporter.mat using Guid(3461c5a9188919441af61f743fcac6b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b78f97dd38095c976ad3dd619d7872be') in 0.008887 seconds 
-  Import took 0.012526 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/LitTileBasic.mat
-  artifactKey: Guid(850935974f6a0ae4c8770cbbb77f74d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/LitTileBasic.mat using Guid(850935974f6a0ae4c8770cbbb77f74d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be42be3ed9fddaf40194a4673ea9a70') in 0.007274 seconds 
-  Import took 0.010815 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerShieldDamage.mat
-  artifactKey: Guid(3be28bb57af1ee14c895f7b66f48ae30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerShieldDamage.mat using Guid(3be28bb57af1ee14c895f7b66f48ae30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c2ccfcfbb6eef0486329947913a58e') in 0.038500 seconds 
-  Import took 0.041924 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000244 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleHeatHaze.mat
-  artifactKey: Guid(4b568e5436d1efa4b9f1010402b4a7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleHeatHaze.mat using Guid(4b568e5436d1efa4b9f1010402b4a7ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd66779b3be045418c32aac210bad09cf') in 0.013815 seconds 
-  Import took 0.018154 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000337 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/RockWaterBlockerNormal.mat
-  artifactKey: Guid(0ffb2fe72ae71614fbb1db4946755093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/RockWaterBlockerNormal.mat using Guid(0ffb2fe72ae71614fbb1db4946755093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e4200160809c45670ce00d73ab50d6') in 0.015081 seconds 
-  Import took 0.019170 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectile.mat
-  artifactKey: Guid(0ed92797faa6a6f4292757fca41bb8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerProjectile.mat using Guid(0ed92797faa6a6f4292757fca41bb8fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8dd970ea5cee43588042ed67ee9154b') in 0.006804 seconds 
-  Import took 0.010583 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000166 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Enemies/Chomper/BiteEffect.mat
-  artifactKey: Guid(c9186295b913db34c9aa38065944926f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Enemies/Chomper/BiteEffect.mat using Guid(c9186295b913db34c9aa38065944926f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a58fcefc6f70d8a58ecd27cadc9960') in 0.007841 seconds 
-  Import took 0.011464 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000174 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/LitTileRockBG.mat
-  artifactKey: Guid(0b5df3b23f3993d45a18f88d8815665d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/LitTileRockBG.mat using Guid(0b5df3b23f3993d45a18f88d8815665d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1f2f3f0bebedc9d91dbd43175d5a4ac') in 0.006277 seconds 
-  Import took 0.009620 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/LightShafts.mat
-  artifactKey: Guid(98994a9e005562f439742e4b9872cc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/LightShafts.mat using Guid(98994a9e005562f439742e4b9872cc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4c113b19b8d70d83979e1c7d54ac30') in 0.007006 seconds 
-  Import took 0.010712 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerShield.mat
-  artifactKey: Guid(74b5a090435a1bb4b9c3d40a4505af18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerShield.mat using Guid(74b5a090435a1bb4b9c3d40a4505af18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cfda272311eb67b8f6135c014917063') in 0.005716 seconds 
-  Import took 0.009741 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani-Light SDF.asset
-  artifactKey: Guid(f3796d9a9d76b5545be8f4d3e74ffd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani-Light SDF.asset using Guid(f3796d9a9d76b5545be8f4d3e74ffd60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403c3ad7cbdc7fe476563f4dd7cdde27') in 0.016300 seconds 
-  Import took 0.020139 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/PlantSwayMedium.mat
-  artifactKey: Guid(0af4297e9c68f451d95749a9f91fd904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/PlantSwayMedium.mat using Guid(0af4297e9c68f451d95749a9f91fd904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5a844b2eebd0b2004484804b47e3961') in 0.006426 seconds 
-  Import took 0.009644 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Enemies/Gunner/LightningLight.mat
-  artifactKey: Guid(7511cb34746338140b257765ed3fc1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Enemies/Gunner/LightningLight.mat using Guid(7511cb34746338140b257765ed3fc1cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103e4a229e4728560ea802d7ef17e803') in 0.005860 seconds 
-  Import took 0.009736 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000188 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/PushableBox.mat
-  artifactKey: Guid(22a70977364b3204d93eddba9e601a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/PushableBox.mat using Guid(22a70977364b3204d93eddba9e601a6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9de5b210fa0369422fcc732b6ba8b1f4') in 0.008456 seconds 
-  Import took 0.012336 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000182 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/HubDoor.mat
-  artifactKey: Guid(a55eefc22095c8c40a0db170485ba5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/HubDoor.mat using Guid(a55eefc22095c8c40a0db170485ba5d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08921e122565f334959fb4204320fb66') in 0.008383 seconds 
-  Import took 0.012098 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/PlantSwayLarge.mat
-  artifactKey: Guid(a174166efb253a242a603e6fba110b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/PlantSwayLarge.mat using Guid(a174166efb253a242a603e6fba110b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9001433014361460d53ffc20f079f987') in 0.006530 seconds 
-  Import took 0.010124 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani-Medium SDF.asset
-  artifactKey: Guid(4f372c329adda324b8e34cc0e26c4cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani-Medium SDF.asset using Guid(4f372c329adda324b8e34cc0e26c4cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9d919cde3edb9e843591f80259b0060') in 0.016641 seconds 
-  Import took 0.020158 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000250 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/Spikes.mat
-  artifactKey: Guid(1b7abd73b5fe8524abc0ceb94975dda2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/Spikes.mat using Guid(1b7abd73b5fe8524abc0ceb94975dda2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91aed61fcf0dc56010cc751d8defa6b8') in 0.009223 seconds 
-  Import took 0.012942 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/Background.mat
-  artifactKey: Guid(cbde66e9603eb5148bbb4a66bed3eee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/Background.mat using Guid(cbde66e9603eb5148bbb4a66bed3eee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323054cadc66f4437f561629061cb3b8') in 0.005464 seconds 
-  Import took 0.008876 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleSparks.mat
-  artifactKey: Guid(b28db239726789346a2151c36e0f98a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Environment/ParticleSparks.mat using Guid(b28db239726789346a2151c36e0f98a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b99af451810e76fbd93869114983bc42') in 0.007025 seconds 
-  Import took 0.010575 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/2DGamekit/Art/Materials/Environment/PlantSwaySmall.mat
-  artifactKey: Guid(374d7f63afc657a4c9d23f2bd36fa5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Environment/PlantSwaySmall.mat using Guid(374d7f63afc657a4c9d23f2bd36fa5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7301ec8edd2e3e63b0b910bc68d0b4c') in 0.006529 seconds 
-  Import took 0.009943 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000214 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/GunnerBeamEffect2.mat
-  artifactKey: Guid(5e6d86c7f9ec609449c933ab811eb779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/GunnerBeamEffect2.mat using Guid(5e6d86c7f9ec609449c933ab811eb779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '304369d45221e1f332860d4781ccf5f2') in 0.006415 seconds 
-  Import took 0.010342 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000326 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Ellen/EllenHurt.mat
-  artifactKey: Guid(85ca70dfb4d675143b31965eff3bf3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Ellen/EllenHurt.mat using Guid(85ca70dfb4d675143b31965eff3bf3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e49d71724ecf9b1e7d0d3fc2fe86f30f') in 0.005859 seconds 
-  Import took 0.009783 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000202 seconds.
-  path: Assets/2DGamekit/Art/Materials/VFX/Interactables/HealthParticles.mat
-  artifactKey: Guid(c4c30fd8d8abcd2479e9d89da1e8f2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/VFX/Interactables/HealthParticles.mat using Guid(c4c30fd8d8abcd2479e9d89da1e8f2ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28fe5931afa3691891e1720b4efb38b9') in 0.007467 seconds 
-  Import took 0.011192 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani-Regular SDF.asset
-  artifactKey: Guid(af61af49f0b8bfa4f8e084fbc3563b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani-Regular SDF.asset using Guid(af61af49f0b8bfa4f8e084fbc3563b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef86615f5f4744dfc9d869fb6311dae') in 0.016933 seconds 
-  Import took 0.020467 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/2DGamekit/Art/Materials/Interactables/DoorGlow.mat
-  artifactKey: Guid(6ba59f43cf1b8bc44b553d68206795af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Interactables/DoorGlow.mat using Guid(6ba59f43cf1b8bc44b553d68206795af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5200254e87a1ceab0894c25dae3c7f67') in 0.005923 seconds 
-  Import took 0.009180 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/2DGamekit/Art/Materials/Enemies/EnemyBits.mat
-  artifactKey: Guid(088f6c36a29f5de4bbe5ed8ca5e18186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Art/Materials/Enemies/EnemyBits.mat using Guid(088f6c36a29f5de4bbe5ed8ca5e18186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7cfb138dd31ecb7138f40049dc40deb') in 0.010613 seconds 
-  Import took 0.014393 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 67.874299 seconds.
-  path: Assets/NewScene.unity
-  artifactKey: Guid(2bb7948e87fa44282916d321a3553e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewScene.unity using Guid(2bb7948e87fa44282916d321a3553e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8834c5ffcaf57fa2268c2841a22e443c') in 0.001032 seconds 
-  Import took 0.004610 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006924 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.236 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1237ms)
-		BeginReloadAssembly (134ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (71ms)
-		EndReloadAssembly (1037ms)
-			LoadAssemblies (110ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (342ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (51ms)
-			SetupLoadedEditorAssemblies (383ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (94ms)
-				ProcessInitializeOnLoadAttributes (243ms)
-				ProcessInitializeOnLoadMethodAttributes (37ms)
-				AfterProcessingInitializeOnLoad (1ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (7ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2365 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 220.1 MB.
-System memory in use after: 220.3 MB.
-
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 2933.
-Total: 5.453433 ms (FindLiveObjects: 0.327200 ms CreateObjectMapping: 0.099601 ms MarkObjects: 4.915903 ms  DeleteObjects: 0.110053 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 207.080012 seconds.
-  path: Assets/2DGamekit/Scenes/Zone1.unity
-  artifactKey: Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Scenes/Zone1.unity using Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '940351d15831698d7c779a44152cd6ad') in 0.010078 seconds 
-  Import took 0.014126 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 309.926440 seconds.
-  path: Assets/NewScene.unity
-  artifactKey: Guid(2bb7948e87fa44282916d321a3553e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewScene.unity using Guid(2bb7948e87fa44282916d321a3553e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3ecb35b89c77ced6ce9481762ec622b') in 0.001625 seconds 
-  Import took 0.005969 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 38.512123 seconds.
-  path: Assets/2DGamekit/Scenes/Zone1.unity
-  artifactKey: Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Scenes/Zone1.unity using Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37d32f54e8a7114ad8b0e5e088491ec7') in 0.002477 seconds 
-  Import took 0.007253 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001871 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.190 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1191ms)
-		BeginReloadAssembly (130ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (60ms)
-		EndReloadAssembly (997ms)
-			LoadAssemblies (86ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (326ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (52ms)
-			SetupLoadedEditorAssemblies (373ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (91ms)
-				ProcessInitializeOnLoadAttributes (238ms)
-				ProcessInitializeOnLoadMethodAttributes (36ms)
-				AfterProcessingInitializeOnLoad (1ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2365 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 221.0 MB.
-System memory in use after: 221.3 MB.
-
-Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 2946.
-Total: 5.608482 ms (FindLiveObjects: 0.313482 ms CreateObjectMapping: 0.110095 ms MarkObjects: 5.159182 ms  DeleteObjects: 0.024967 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 396.754128 seconds.
-  path: Assets/2DGamekit/Scenes/Zone1.unity
-  artifactKey: Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2DGamekit/Scenes/Zone1.unity using Guid(a94cb8f134bf81349ad016c79b629e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cca4dbfaed29d45f61761649df79878b') in 0.010357 seconds 
-  Import took 0.014321 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005994 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.159 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1159ms)
-		BeginReloadAssembly (120ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (61ms)
-		EndReloadAssembly (978ms)
-			LoadAssemblies (107ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (320ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (50ms)
-			SetupLoadedEditorAssemblies (356ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (227ms)
-				ProcessInitializeOnLoadMethodAttributes (34ms)
-				AfterProcessingInitializeOnLoad (1ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (13ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2365 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 221.3 MB.
-System memory in use after: 221.5 MB.
-
-Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 2959.
-Total: 5.232168 ms (FindLiveObjects: 0.232283 ms CreateObjectMapping: 0.086874 ms MarkObjects: 4.893100 ms  DeleteObjects: 0.019364 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 89.739590 seconds.
-  path: Assets/NewScene.unity
-  artifactKey: Guid(2bb7948e87fa44282916d321a3553e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewScene.unity using Guid(2bb7948e87fa44282916d321a3553e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87720ed7257a9bd59a850e0c7ce5c3d') in 0.009548 seconds 
-  Import took 0.012951 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008407 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 1.06 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.466 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1466ms)
-		BeginReloadAssembly (154ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (86ms)
-		EndReloadAssembly (1232ms)
-			LoadAssemblies (126ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (399ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (60ms)
-			SetupLoadedEditorAssemblies (460ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (111ms)
-				ProcessInitializeOnLoadAttributes (290ms)
-				ProcessInitializeOnLoadMethodAttributes (50ms)
-				AfterProcessingInitializeOnLoad (2ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (19ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 2.18 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2365 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 221.6 MB.
-System memory in use after: 221.8 MB.
-
-Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 2972.
-Total: 8.565336 ms (FindLiveObjects: 0.641386 ms CreateObjectMapping: 0.137225 ms MarkObjects: 7.754708 ms  DeleteObjects: 0.030442 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

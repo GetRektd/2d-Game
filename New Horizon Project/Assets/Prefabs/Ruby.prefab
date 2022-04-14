@@ -102,7 +102,7 @@ MonoBehaviour:
   maxHealth: 5
   timeInvincible: 2
   currentHealth: 0
-  projectilePrefab: {fileID: 0}
+  projectilePrefab: {fileID: 2519163883701699191, guid: 9879981891e1943b0a56626f51d4a416, type: 3}
 --- !u!50 &7867916468187620230
 Rigidbody2D:
   serializedVersion: 4
@@ -137,7 +137,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0217731, y: 0.20274551}
+  m_Offset: {x: 0.017879367, y: 0.28695595}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -148,7 +148,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.31767714, y: 0.40549102}
+  m_Size: {x: 0.46471035, y: 0.55006135}
   m_EdgeRadius: 0
 --- !u!95 &2722707740587023892
 Animator:
@@ -160,7 +160,7 @@ Animator:
   m_GameObject: {fileID: 3508985266790790561}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b77822e0485373d40b5beb92e9a5e728, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
